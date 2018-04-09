@@ -25,4 +25,4 @@ I study Artificial Intelligence, my friend studies Econs. We're university stude
 We're driven by the notion that we all grow more when we are surrounded by brilliant minds, so mathematically it's wise to preach brilliance in thinking and execution. That's what we are, and that's what The Campus Journalist stands for.
 
 ### Join us as a writer
-We didn't build this website so we could write more, we built it so *you* could write more! If you're interested in sharing their opinions on **student affairs**, [drop us a message](https://www.messenger.com/t/thecampusjournalist), we'll get back to you fast.
+We didn't build this website so we could write more, we built it so *you* could write more! If you're interested in sharing your opinions on **student affairs**, [drop us a message](https://www.messenger.com/t/thecampusjournalist), we'll get back to you fast.
