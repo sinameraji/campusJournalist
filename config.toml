@@ -2,6 +2,8 @@ baseurl = "https://thecampusjournalist.com/"
 languageCode = "en"
 title = "The Campus Journalist"
 theme = "hemingway2"
+copyright = "&copy; <a href=\"https://www.thecampusjournalist.com\">Campus Journalist</a> 2018"
+
 googleAnalytics = ""
 description = "21st century opinions on student affairs"
 keywords = ["student", "journalism", "university"]
