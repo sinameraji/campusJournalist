@@ -1,4 +1,4 @@
-baseurl = "http://thecampusjournalist.com/"
+baseurl = "https://thecampusjournalist.com/"
 languageCode = "en"
 title = "The Campus Journalist"
 theme = "hemingway2"
