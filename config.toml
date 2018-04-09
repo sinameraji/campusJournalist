@@ -4,7 +4,7 @@ title = "The Campus Journalist"
 theme = "hemingway2"
 copyright = "&copy; <a href=\"https://www.thecampusjournalist.com\">Campus Journalist</a> 2018"
 
-googleAnalytics = ""
+googleAnalytics = "UA-101933072-2"
 description = "21st century opinions on student affairs"
 keywords = ["student", "journalism", "university"]
 
